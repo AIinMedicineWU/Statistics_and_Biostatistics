@@ -1,0 +1,11 @@
+streamlit
+st_pages
+scipy
+streamlit_code_editor
+matplotlib
+pandas
+seaborn
+st_tailwind
+statsmodels
+scikit-learn
+lifelines
