@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Fundamentals of Statistics and Biostatistics
 
 A simple Streamlit app template for you to modify!
 
