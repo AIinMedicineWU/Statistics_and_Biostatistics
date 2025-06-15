@@ -162,6 +162,7 @@ def main():
     ---
     Made with ❤️ and Streamlit | © 2025 Medicine AI WU
     """)
+    
 
 
 def get_week_description(week_number):
